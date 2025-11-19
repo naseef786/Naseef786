@@ -25,7 +25,7 @@
 ---
 
 <div align="center" style="
-  background-color:white;
+  background-color:'green';
   border: 2px solid #e5e7eb;
   border-radius: 15px;
   padding: 20px;
