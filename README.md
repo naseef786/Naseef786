@@ -59,7 +59,4 @@
 </p>
 
 </div>
-
-
----
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naseef786&show_icons=true&locale=en&layout=compact" alt="naseef786" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=naseef786&show_icons=true&locale=en&layout=compact" alt="naseef786" /></p> -->
